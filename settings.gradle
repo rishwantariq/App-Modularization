@@ -1,0 +1,3 @@
+include ':app', ':roomdatabase', ':screentime'
+rootProject.name='Modularization'
+include ':locationmodule'
